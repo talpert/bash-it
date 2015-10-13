@@ -14,6 +14,7 @@ alias gus='git reset HEAD'
 alias gm="git merge"
 alias g='git'
 alias get='git'
+alias gits='git status'
 alias gst='git status'
 alias gs='git status'
 alias gss='git status -s'
