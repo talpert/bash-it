@@ -27,8 +27,6 @@ alias cls='clear'
 alias edit="$EDITOR"
 alias pager="$PAGER"
 
-alias q='exit'
-
 alias irc="$IRC_CLIENT"
 
 alias rb='ruby'
